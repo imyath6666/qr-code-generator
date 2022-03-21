@@ -1,4 +1,4 @@
-,alert("Welcome to Yatharth's QR code generator")
+alert("Welcome to Yatharth's QR code generator")
 
 const wrapper = document.querySelector(".wrapper"),
   generateBtn = wrapper.querySelector(".form button"),
